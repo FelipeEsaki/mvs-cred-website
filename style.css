@@ -1,6 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&display=swap");
 .header {
-  background-color: #4D4D4D;
+  background-color: #FF8605;
   height: auto;
   position: sticky;
   top: 0;
@@ -20,7 +20,7 @@
   font-weight: 400;
 }
 .header .info .informacoes i {
-  color: #FF8605;
+  color: #4D4D4D;
 }
 .header .header__all {
   margin: 0 auto;
@@ -76,7 +76,7 @@
   transition: 0.5s;
 }
 .header .header__all-first .header__all-second ul li a:hover {
-  color: #FF8605;
+  color: #4D4D4D;
 }
 .header .menu__bar {
   display: none;
@@ -170,7 +170,7 @@ main .carousel-slide a {
   text-transform: uppercase;
   padding: 10px 20px;
   border-radius: 2px;
-  background-color: #FF8605;
+  background-color: #4D4D4D;
   color: #fff;
   font-size: 1.2rem;
   font-weight: 500;
@@ -182,7 +182,7 @@ main .carousel-slide a {
 }
 main .carousel-slide a:hover {
   background-color: #fff;
-  color: #FF8605;
+  color: #4D4D4D;
 }
 main .carousel-slide img {
   width: 100vw;
@@ -215,7 +215,7 @@ main .carousel-slide img {
     font-weight: 500;
   }
   .header .info .informacoes i {
-    color: #FF8605;
+    color: #4D4D4D;
   }
   .header .header__all {
     padding: 1rem;
@@ -269,11 +269,11 @@ main .carousel-slide img {
     transition: 0.5s;
   }
   .header .header__all .header__all-second ul li a:hover {
-    color: #4D4D4D;
+    color: #FF8605;
     background-color: #fff;
   }
   .header .menu__bar {
-    background-color: #4D4D4D;
+    background-color: #FF8605;
     position: absolute;
     top: -500%;
     left: 0;
@@ -299,7 +299,7 @@ main .carousel-slide img {
   }
   .header .menu__bar .menu__bar-content i {
     font-size: 1.5rem;
-    color: #FF8605;
+    color: #4D4D4D;
   }
   main {
     max-width: 100vw;
@@ -382,7 +382,7 @@ main .carousel-slide img {
     text-transform: uppercase;
     padding: 10px 20px;
     border-radius: 2px;
-    background-color: #FF8605;
+    background-color: #4D4D4D;
     color: #fff;
     font-size: 1.2rem;
     font-weight: 500;
@@ -393,8 +393,8 @@ main .carousel-slide img {
     z-index: 999;
   }
   main .carousel-slide a:hover {
-    background-color: #4D4D4D;
-    color: #FF8605;
+    background-color: #FF8605;
+    color: #4D4D4D;
   }
   main .carousel-slide img {
     width: 100vw;
@@ -423,7 +423,7 @@ main .carousel-slide img {
     font-weight: 500;
   }
   .header .info .informacoes i {
-    color: #FF8605;
+    color: #4D4D4D;
   }
   .header .header__all {
     padding: 1rem;
@@ -477,11 +477,11 @@ main .carousel-slide img {
     transition: 0.5s;
   }
   .header .header__all .header__all-second ul li a:hover {
-    color: #4D4D4D;
+    color: #FF8605;
     background-color: #fff;
   }
   .header .menu__bar {
-    background-color: #4D4D4D;
+    background-color: #FF8605;
     position: absolute;
     top: -500%;
     left: 0;
@@ -507,7 +507,7 @@ main .carousel-slide img {
   }
   .header .menu__bar .menu__bar-content i {
     font-size: 1.5rem;
-    color: #FF8605;
+    color: #4D4D4D;
   }
   main {
     max-width: 100vw;
@@ -614,8 +614,8 @@ main .carousel-slide img {
     z-index: 999;
   }
   main .carousel-slide a:hover {
-    background-color: #4D4D4D;
-    color: #FF8605;
+    background-color: #FF8605;
+    color: #4D4D4D;
   }
   main .carousel-slide img {
     width: 100vw;
@@ -644,7 +644,7 @@ main .carousel-slide img {
     font-weight: 500;
   }
   .header .info .informacoes i {
-    color: #FF8605;
+    color: #4D4D4D;
   }
   .header .header__all {
     padding: 1rem;
@@ -698,11 +698,11 @@ main .carousel-slide img {
     transition: 0.5s;
   }
   .header .header__all .header__all-second ul li a:hover {
-    color: #4D4D4D;
+    color: #FF8605;
     background-color: #fff;
   }
   .header .menu__bar {
-    background-color: #4D4D4D;
+    background-color: #FF8605;
     position: absolute;
     top: -500%;
     left: 0;
@@ -728,7 +728,7 @@ main .carousel-slide img {
   }
   .header .menu__bar .menu__bar-content i {
     font-size: 1.5rem;
-    color: #FF8605;
+    color: #4D4D4D;
   }
   main {
     max-width: 100vw;
@@ -813,8 +813,8 @@ main .carousel-slide img {
     z-index: 999;
   }
   main .carousel-slide a:hover {
-    background-color: #4D4D4D;
-    color: #FF8605;
+    background-color: #FF8605;
+    color: #4D4D4D;
   }
   main .carousel-slide img {
     width: 100vw;
@@ -832,7 +832,7 @@ main .carousel-slide img {
 .first__section h3 {
   font-size: 1rem;
   text-transform: uppercase;
-  color: #4D4D4D;
+  color: #FF8605;
 }
 .first__section h2 {
   margin: 20px auto;
@@ -884,7 +884,7 @@ main .carousel-slide img {
   text-transform: uppercase;
   padding: 10px 20px;
   border-radius: 2px;
-  background-color: #4D4D4D;
+  background-color: #FF8605;
   color: #fff;
   font-size: 1.2rem;
   font-weight: 500;
@@ -892,15 +892,15 @@ main .carousel-slide img {
   font-size: 1rem;
 }
 .first__section .first__section-container .content .produto .produto-btn:hover {
-  background-color: #FF8605;
+  background-color: #4D4D4D;
 }
 .first__section .first__section-container .content .produto i {
-  color: #4D4D4D;
+  color: #FF8605;
   font-size: 3rem;
 }
 .first__section .first__section-container .content .produto span {
   font-size: 1.5rem;
-  color: #4D4D4D;
+  color: #FF8605;
   font-weight: 600;
 }
 .first__section .first__section-container .content .produto p {
@@ -921,7 +921,7 @@ main .carousel-slide img {
   .first__section h3 {
     font-size: 1rem;
     text-transform: uppercase;
-    color: #4D4D4D;
+    color: #FF8605;
   }
   .first__section h2 {
     margin: 20px auto;
@@ -952,7 +952,7 @@ main .carousel-slide img {
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
   }
   .first__section .first__section-container .content i {
-    color: #FF8605;
+    color: #4D4D4D;
     font-size: 1.4rem;
   }
   .first__section .first__section-container .content .produto {
@@ -962,7 +962,7 @@ main .carousel-slide img {
   }
   .first__section .first__section-container .content .produto span {
     text-align: center;
-    color: #4D4D4D;
+    color: #FF8605;
     font-weight: 600;
   }
   .first__section .first__section-container .content .produto p {
@@ -984,7 +984,7 @@ main .carousel-slide img {
   .first__section h3 {
     font-size: 1rem;
     text-transform: uppercase;
-    color: #4D4D4D;
+    color: #FF8605;
   }
   .first__section h2 {
     margin: 20px auto;
@@ -1015,7 +1015,7 @@ main .carousel-slide img {
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
   }
   .first__section .first__section-container .content i {
-    color: #FF8605;
+    color: #4D4D4D;
     font-size: 1.4rem;
   }
   .first__section .first__section-container .content .produto {
@@ -1025,7 +1025,7 @@ main .carousel-slide img {
   }
   .first__section .first__section-container .content .produto span {
     text-align: center;
-    color: #4D4D4D;
+    color: #FF8605;
     font-weight: 600;
   }
   .first__section .first__section-container .content .produto p {
@@ -1061,7 +1061,7 @@ main .carousel-slide img {
 .second__section-conteudo h3 {
   font-size: 1rem;
   text-transform: uppercase;
-  color: #4D4D4D;
+  color: #FF8605;
 }
 .second__section-conteudo h2 {
   font-size: 2rem;
@@ -1085,7 +1085,7 @@ main .carousel-slide img {
   align-items: center;
 }
 .second__section-conteudo ul li i {
-  color: #4D4D4D;
+  color: #FF8605;
 }
 .second__section-conteudo ul li p {
   font-size: 1rem;
@@ -1098,7 +1098,7 @@ main .carousel-slide img {
   text-transform: uppercase;
   padding: 10px 20px;
   border-radius: 2px;
-  background-color: #4D4D4D;
+  background-color: #FF8605;
   color: #fff;
   font-size: 1.2rem;
   font-weight: 500;
@@ -1106,7 +1106,7 @@ main .carousel-slide img {
   z-index: 998;
 }
 .second__section-conteudo a:hover {
-  background-color: #FF8605;
+  background-color: #4D4D4D;
   color: #fff;
 }
 
@@ -1133,7 +1133,7 @@ main .carousel-slide img {
   .second__section-conteudo h2 {
     font-size: 1.5rem;
     font-weight: 600;
-    color: #4D4D4D;
+    color: #FF8605;
     color: #000;
   }
   .second__section-conteudo p {
@@ -1153,7 +1153,7 @@ main .carousel-slide img {
     align-items: center;
   }
   .second__section-conteudo ul li i {
-    color: #4D4D4D;
+    color: #FF8605;
   }
   .second__section-conteudo ul li p {
     font-size: 1rem;
@@ -1166,7 +1166,7 @@ main .carousel-slide img {
     text-transform: uppercase;
     padding: 10px 20px;
     border-radius: 10px;
-    background-color: #4D4D4D;
+    background-color: #FF8605;
     color: #fff;
     font-size: 0.8rem;
     font-weight: 500;
@@ -1174,8 +1174,8 @@ main .carousel-slide img {
     z-index: 999;
   }
   .second__section-conteudo a:hover {
-    background-color: #4D4D4D;
-    color: #4D4D4D;
+    background-color: #FF8605;
+    color: #FF8605;
   }
 }
 .third__section {
@@ -1291,7 +1291,7 @@ main .carousel-slide img {
 }
 .fourth__section-content-itens i {
   padding: 20px;
-  background-color: #FF8605;
+  background-color: #4D4D4D;
   box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
   border-radius: 20px;
   font-size: 2rem;
@@ -1301,7 +1301,7 @@ main .carousel-slide img {
 }
 .fourth__section-content-itens i:hover {
   background-color: #fff;
-  color: #FF8605;
+  color: #4D4D4D;
 }
 .fourth__section-content-itens .itens-content {
   display: flex;
@@ -1355,13 +1355,13 @@ main .carousel-slide img {
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
     border-radius: 20px;
     font-size: 2rem;
-    color: #FF8605;
+    color: #4D4D4D;
     margin-right: 20px;
     margin-bottom: 40px;
     transition: 0.5s;
   }
   .fourth__section-content-itens i:hover {
-    background-color: #FF8605;
+    background-color: #4D4D4D;
     color: #fff;
   }
   .fourth__section-content-itens .itens-content {
@@ -1385,13 +1385,13 @@ main .carousel-slide img {
 }
 .fifth__section {
   width: 100%;
-  margin: 0px auto;
+  margin: 50px auto;
   margin-top: 50px;
   padding: 50px 50px;
   display: flex;
   align-items: center;
   justify-content: space-between;
-  background-color: #FF8605;
+  background-color: #4D4D4D;
 }
 .fifth__section-all {
   margin: 0 auto;
@@ -1428,7 +1428,7 @@ main .carousel-slide img {
   text-transform: uppercase;
   padding: 10px 20px;
   border-radius: 10px;
-  background-color: #4D4D4D;
+  background-color: #FF8605;
   color: #fff;
   font-size: 1.2rem;
   font-weight: 500;
@@ -1437,7 +1437,7 @@ main .carousel-slide img {
 }
 .fifth__section-all-link a:hover {
   background-color: #fff;
-  color: #4D4D4D;
+  color: #FF8605;
 }
 
 @media (max-width: 768px) {
@@ -1449,7 +1449,7 @@ main .carousel-slide img {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    background-color: #FF8605;
+    background-color: #4D4D4D;
   }
   .fifth__section-all {
     margin: 0 auto;
@@ -1469,7 +1469,7 @@ main .carousel-slide img {
   .fifth__section-all-content h2 {
     font-size: 1.5rem;
     font-weight: 600;
-    color: #4D4D4D;
+    color: #FF8605;
     color: #fff;
   }
   .fifth__section-all-content p {
@@ -1489,7 +1489,7 @@ main .carousel-slide img {
     text-transform: uppercase;
     padding: 10px 20px;
     border-radius: 10px;
-    background-color: #4D4D4D;
+    background-color: #FF8605;
     color: #fff;
     font-size: 0.8rem;
     font-weight: 500;
@@ -1497,7 +1497,7 @@ main .carousel-slide img {
   }
   .fifth__section-all-link a:hover {
     background-color: #fff;
-    color: #FF8605;
+    color: #4D4D4D;
   }
 }
 #footer {
@@ -1525,8 +1525,18 @@ main .carousel-slide img {
   flex-direction: column;
   align-items: flex-start;
 }
-#footer .footer__content .footer__logo img {
-  width: 60%;
+#footer .footer__content .footer__logo__content {
+  display: flex;
+  width: 100%;
+  justify-content: space-around;
+  align-items: center;
+}
+#footer .footer__content .footer__logo__content #febraban {
+  width: 15%;
+}
+#footer .footer__content .footer__logo__content img {
+  width: 70%;
+  height: 100%;
   margin-bottom: 20px;
 }
 #footer .footer__content .footer__logo p {
@@ -1541,7 +1551,7 @@ main .carousel-slide img {
   gap: 20px;
 }
 #footer .footer__content .footer__logo .icons a {
-  color: #FF8605;
+  color: #fff;
   text-decoration: none;
 }
 #footer .footer__content .footer__logo .icons a:hover {
@@ -1549,7 +1559,7 @@ main .carousel-slide img {
 }
 #footer .footer__content .footer__logo .icons a i {
   font-size: 1.5rem;
-  color: #FF8605;
+  color: #fff;
   transition: 0.5s;
 }
 #footer .footer__content .footer__itens {
@@ -1582,7 +1592,7 @@ main .carousel-slide img {
   gap: 20px;
 }
 #footer .footer__content .footer__contato ul li i {
-  color: #FF8605;
+  color: #4D4D4D;
   font-size: 1.4rem;
   color: #fff;
 }
@@ -1629,7 +1639,7 @@ main .carousel-slide img {
     align-items: center;
   }
   #footer .footer__content .footer__logo .icons a {
-    color: #FF8605;
+    color: #fff;
     text-decoration: none;
   }
   #footer .footer__content .footer__logo .icons a:hover {
@@ -1638,7 +1648,7 @@ main .carousel-slide img {
   #footer .footer__content .footer__logo .icons a i {
     font-size: 1.5rem;
     margin: 0 10px;
-    color: #FF8605;
+    color: #fff;
     transition: 0.5s;
   }
   #footer .footer__content .footer__itens {
@@ -1671,7 +1681,7 @@ main .carousel-slide img {
     gap: 20px;
   }
   #footer .footer__content .footer__contato ul li i {
-    color: #FF8605;
+    color: #4D4D4D;
     font-size: 1.4rem;
     color: #fff;
   }
@@ -1700,7 +1710,7 @@ main .carousel-slide img {
 }
 .first__section-sobrenos .first__section-content h1 {
   font-size: 1.5rem;
-  color: #4D4D4D;
+  color: #FF8605;
   font-weight: 800;
 }
 .first__section-sobrenos .first__section-content p {
@@ -1724,7 +1734,7 @@ main .carousel-slide img {
   gap: 20px;
 }
 .second__section .second-content span {
-  color: #4D4D4D;
+  color: #FF8605;
   font-weight: 600;
 }
 .second__section .second-content p {
@@ -1754,14 +1764,14 @@ main .carousel-slide img {
   }
   .first__section-sobrenos-content h1 {
     font-size: 2rem;
-    color: #4D4D4D;
+    color: #FF8605;
     font-weight: 800;
   }
   .first__section-sobrenos-content p {
     font-size: 1.2rem;
     color: #fff;
     font-weight: 400;
-    color: #4D4D4D;
+    color: #FF8605;
   }
 }
 #main-servicos {
@@ -1771,7 +1781,7 @@ main .carousel-slide img {
 }
 #main-servicos h1 {
   margin: 20px auto;
-  border-bottom: 5px solid #FF8605;
+  border-bottom: 5px solid #4D4D4D;
 }
 #main-servicos .servicos {
   margin: 0px auto;
@@ -1840,7 +1850,7 @@ main .carousel-slide img {
   }
   .servicos .servico h2 {
     font-size: 1.5rem;
-    color: #FF8605;
+    color: #4D4D4D;
     text-align: center;
   }
   .servicos .servico p {
@@ -1860,7 +1870,7 @@ main .carousel-slide img {
   margin: 50px auto;
   display: flex;
   flex-direction: column;
-  background-color: #FF8605;
+  background-color: #4D4D4D;
   background-size: cover;
   box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
   padding: 40px;
@@ -1938,7 +1948,7 @@ main .carousel-slide img {
   cursor: pointer;
 }
 .main__simulacao .form .servicos button:hover {
-  background-color: #FF8605;
+  background-color: #4D4D4D;
   color: #fff;
 }
 .main__simulacao .form .btn-enviar {
@@ -1949,7 +1959,7 @@ main .carousel-slide img {
   padding: 10px 20px;
   border-radius: 2px;
   background-color: #fff;
-  color: #FF8605;
+  color: #4D4D4D;
   font-size: 1.2rem;
   font-weight: 500;
   transition: 0.5s;
@@ -1958,7 +1968,7 @@ main .carousel-slide img {
   border: 0;
 }
 .main__simulacao .form .btn-enviar:hover {
-  background-color: #4D4D4D;
+  background-color: #FF8605;
   color: #fff;
 }
 
@@ -1973,7 +1983,7 @@ main .carousel-slide img {
     margin: 50px auto;
     display: flex;
     flex-direction: column;
-    background-color: #FF8605;
+    background-color: #4D4D4D;
     padding: 40px;
     border-radius: 20px;
     gap: 20px;
@@ -2050,7 +2060,7 @@ main .carousel-slide img {
     cursor: pointer;
   }
   .main__simulacao .form .servicos button:hover {
-    background-color: #FF8605;
+    background-color: #4D4D4D;
     color: #fff;
   }
   .main__simulacao .form .btn-enviar {
@@ -2061,7 +2071,7 @@ main .carousel-slide img {
     padding: 10px 20px;
     border-radius: 2px;
     background-color: #fff;
-    color: #FF8605;
+    color: #4D4D4D;
     font-size: 1.2rem;
     font-weight: 500;
     transition: 0.5s;
@@ -2070,7 +2080,7 @@ main .carousel-slide img {
     border: 0;
   }
   .main__simulacao .form .btn-enviar:hover {
-    background-color: #4D4D4D;
+    background-color: #FF8605;
     color: #fff;
   }
 }
@@ -2119,7 +2129,7 @@ main .carousel-slide img {
   text-align: center;
   font-size: 1.2rem;
   color: #fff;
-  background-color: #FF8605;
+  background-color: #4D4D4D;
   border-radius: 50%;
   padding: 20px;
 }
@@ -2136,7 +2146,7 @@ main .carousel-slide img {
   height: 600px;
   display: flex;
   flex-direction: column;
-  background-color: #FF8605;
+  background-color: #4D4D4D;
   background-size: cover;
   box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
   padding: 20px;
@@ -2193,7 +2203,7 @@ main .carousel-slide img {
   border-right: 1px solid rgba(200, 200, 200, 0.4);
   border-top: 1px solid #5a5a5a;
   border-left: 1px solid #5a5a5a;
-  color: #4D4D4D;
+  color: #FF8605;
   font-size: 1rem;
   font-weight: 400;
 }
@@ -2214,7 +2224,7 @@ main .carousel-slide img {
   cursor: pointer;
 }
 .section__contato .form .servicos button:hover {
-  background-color: #FF8605;
+  background-color: #4D4D4D;
   color: #fff;
 }
 .section__contato .form .btn-enviar {
@@ -2225,7 +2235,7 @@ main .carousel-slide img {
   padding: 10px 20px;
   border-radius: 2px;
   background-color: #fff;
-  color: #FF8605;
+  color: #4D4D4D;
   font-size: 1.2rem;
   font-weight: 500;
   transition: 0.5s;
@@ -2234,7 +2244,7 @@ main .carousel-slide img {
   border: 0;
 }
 .section__contato .form .btn-enviar:hover {
-  background-color: #4D4D4D;
+  background-color: #FF8605;
   color: #fff;
 }
 .section__contato iframe {
